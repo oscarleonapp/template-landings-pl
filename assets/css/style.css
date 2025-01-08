@@ -41,7 +41,6 @@ body {
   padding: 0px;
   background: linear-gradient(to bottom, #67c4d0, #67c4d0, #67c4d0);
 }
-
 ol,
 ul {
   list-style: none;
@@ -2392,7 +2391,7 @@ side-panel-con ul {
 .cpy-right {
   float: left;
   width: 100%;
-  border-top: 1px solid #ffffff;
+  /* border-top: 1px solid #ffffff; */
   padding: 40px 0 20px 0;
 }
 
